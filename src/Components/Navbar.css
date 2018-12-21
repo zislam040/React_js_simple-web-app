@@ -1,0 +1,13 @@
+.dropdown-menu {
+
+    cursor: pointer;
+    
+}
+
+a#dropdown01 {
+    cursor: pointer;
+}
+
+.dropdown-menu.show :hover {
+    background-color: #21a99a;
+}
